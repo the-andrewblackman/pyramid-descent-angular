@@ -7,7 +7,7 @@
 /bazel-out
 
 # Allow .nojekyll file in dist
-!/dist/pyramid-descent-angular/browser/.nojekyll
+!/dist/pyramid-descent-angular/.nojekyll
 
 # Node
 /node_modules
