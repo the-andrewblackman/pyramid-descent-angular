@@ -1,0 +1,22 @@
+[
+	{
+		"pyramidNums": [2, 4, 3, 3, 2, 6, 2, 9, 5, 2, 1, 5, 2, 15, 5, 3, 4, 5, 2, 4, 2],
+		"target": 192,
+		"calculatedDirections": "LLLLR"
+	},
+	{
+		"pyramidNums": [2, 4, 3, 3, 2, 6, 2, 9, 5, 2, 10, 5, 2, 15, 5],
+		"target": 720,
+		"calculatedDirections": "LRLL"
+	},
+	{
+		"pyramidNums": [2, 4, 3, 3, 2, 6, 2, 9, 5, 2, 1, 5, 2, 15, 5],
+		"target": 48,
+		"calculatedDirections": "LLLL"
+	},
+	{
+		"pyramidNums": [2, 4, 3, 13, 2, 6, 2, 9, 5, 2, 10, 5, 2, 15, 5],
+		"target": 1200,
+		"calculatedDirections": "LRRR"
+	}
+]
