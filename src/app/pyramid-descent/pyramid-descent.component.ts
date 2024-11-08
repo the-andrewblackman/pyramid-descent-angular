@@ -27,11 +27,6 @@ export class PyramidDescentComponent implements OnInit {
 	pyramidData: number[][] = [];
 	directions: string = "";
 	targetNumber: number = 0;
-	index: number = 1;
-	totalFetched: number = 0; // Keep track of how many times data has been fetched
-	maxFetches: number = 1;
-	switcher: boolean = true;
-
 	data: any[] = [];
 	currentIndex: number = 0;
 
