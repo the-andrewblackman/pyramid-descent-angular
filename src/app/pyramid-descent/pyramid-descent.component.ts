@@ -34,7 +34,7 @@ export class PyramidDescentComponent implements OnInit {
 
 	ngOnInit(): void {
 		this.http
-			.get<any[]>("/assets/pyramid-data/data.json")
+			.get<any[]>("assets/pyramid-data/data.json")
 			.subscribe((responseData) => {
 				this.data = responseData;
 			});
