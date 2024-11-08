@@ -6,6 +6,9 @@
 /out-tsc
 /bazel-out
 
+# Allow .nojekyll file in dist
+!/dist/pyramid-descent-angular/browser/.nojekyll
+
 # Node
 /node_modules
 npm-debug.log
